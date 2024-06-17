@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  color: blue;
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+}
+span {
+  color: brown;
+  font-size: 35px;
+}
+
+.card {
+  padding: 2em;
+}
